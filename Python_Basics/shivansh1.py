@@ -1,0 +1,13 @@
+print("shivansh")
+print ("sushil")
+print (2+3)
+print ("GEETANJALI")
+print("shivansh sushil and geetanjali")
+print (100*100)
+print(1+2+78*100*5000)
+print (55*55)
+print ("my name is shivansh godiyal ")
+print ("i study in st.patricks academy clement town dehradun")
+print ("i study in class 3d") 
+print ("my roll no is 23")
+
